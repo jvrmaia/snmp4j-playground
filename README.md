@@ -1,0 +1,2 @@
+    ./run-docker
+    ./run
